@@ -1,0 +1,24 @@
+.row {
+  display: flex;
+  gap: 10px;
+}
+mat-form-field {
+  width: 100%;
+}
+mat-radio-group {
+  font-size: large;
+  margin: 10px 0px;
+}
+.rSel {
+  font-size: 18px;
+}
+.currencySelect {
+  width: 30%;
+}
+.actions {
+  padding: 0px 50px;
+  gap: 50px;
+}
+button {
+  flex: 1;
+}
